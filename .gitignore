@@ -1,0 +1,4 @@
+# Ignore everything except ourself and the .editorconfig
+*
+!/.gitignore
+!/.editorconfig
